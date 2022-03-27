@@ -1,4 +1,4 @@
-# crunchyroll-premium  <img align="center" alt="jacare-Js" height="30" width="40" src="https://i.imgur.com/gEeJp0J.png">
+# crunchyroll-premium  <img align="center" alt="jacare-Js" height="50" width="40" src="https://i.imgur.com/gEeJp0J.png">
 
 
 # descrição
