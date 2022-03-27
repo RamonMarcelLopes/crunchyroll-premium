@@ -1,4 +1,4 @@
-# crunchyroll-premium  <img align="center" alt="jacare-Js" height="30" width="40" src="https://e7.pngegg.com/pngimages/38/745/png-clipart-crunchyroll-manga-anime-television-school-manga.png">
+# crunchyroll-premium  <img align="center" alt="jacare-Js" height="30" width="40" src="https://i.imgur.com/gEeJp0J.png">
 
 
 # descrição
