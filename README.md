@@ -13,4 +13,4 @@ extenção de navegador  para assistir animes premium do crunchyroll gratuitamen
 </div>
 
 
-https://e7.pngegg.com/pngimages/38/745/png-clipart-crunchyroll-manga-anime-television-school-manga.png
+
