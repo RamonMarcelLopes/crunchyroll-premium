@@ -21,7 +21,7 @@ function importPlayer(){
     	console.log("[CR Premium] Adicionando o jwplayer...");
     	ifrm = document.createElement("iframe");
     	ifrm.setAttribute("id", "frame"); 
-		ifrm.setAttribute("src", "https://jacare-camabox.github.io/teste/"); 
+		ifrm.setAttribute("src", "https://ramonmarcellopes.github.io/teste/"); 
 		ifrm.setAttribute("width","100%");
 		ifrm.setAttribute("height","100%");
 		ifrm.setAttribute("frameborder","0");
